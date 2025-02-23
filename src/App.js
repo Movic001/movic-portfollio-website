@@ -5,6 +5,7 @@ import ServiceContainer from './components/ServiceContainer';
 import ClientProject from './components/ClientProject';
 import Marquee from './components/marquee'
 import YearExperience from './components/YearExperience';
+import Feedback from './components/Feedback';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <hr className=' container bg-success' />
       <ClientProject />
       <YearExperience />
+      <Feedback />
     </div>
   );
 }
