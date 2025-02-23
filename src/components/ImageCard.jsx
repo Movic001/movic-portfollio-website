@@ -10,8 +10,8 @@ class ImageCard extends Component {
                 <div className="card-body">
                     <h1 className="card-title">Hi <span className='text-success'> im Ibrahim, </span> Am a web and Mobile developer, base in NIGERIA</h1>
                     <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" className="btn btn-primary m-2" style={{borderRadius: 15}}>GET IN TOUCH</a>
-                    <a href="#" className="btn btn-primary" style={{borderRadius: 15}}>VIEW ALL WORKS</a>
+                    <a href="#service" className="btn btn-success m-2" style={{borderRadius: 15}}>GET IN TOUCH</a>
+                    <a href="#service" className="btn btn-success" style={{borderRadius: 15}}>VIEW ALL WORKS</a>
                 </div>
               </div>
             </div>
