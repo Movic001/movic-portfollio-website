@@ -8,7 +8,7 @@ class ImageCard extends Component {
             <div className="col-sm-6 mb-3 mb-sm-0 ">
               <div className="card border-0">
                 <div className="card-body">
-                    <h1 className="card-title">Hi <span className='text-success'> im Ibrahim, </span> Am a web and Mobile developer, base in NIGERIA</h1>
+                    <h2 className="card-title">Hi <span className='text-success'> im Ibrahim, </span> Am a web and Mobile developer, base in NIGERIA</h2>
                     <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                     <a href="#service" className="btn btn-success m-2" style={{borderRadius: 15}}>GET IN TOUCH</a>
                     <a href="#service" className="btn btn-success" style={{borderRadius: 15}}>VIEW ALL WORKS</a>

@@ -5,7 +5,7 @@ class Feedback extends Component {
     render() { 
         return (
             <div className='my-5 container'>
-                <h1>Explor our Client Feedback</h1>
+                <h3>Explor our Client Feedback</h3>
             </div>
         );
     }
