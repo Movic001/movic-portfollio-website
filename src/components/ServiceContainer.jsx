@@ -18,10 +18,22 @@ class ServiceContainer extends Component {
 
                     <div className="col-sm-6">
                         <ul className="list-group list-group-flush">
-                            <h3 className="list-group-item">WEB DESIGN</h3>
-                            <h3 className="list-group-item my-3">APP DESIGN</h3>
-                            <h3 className="list-group-item my-3">DASHBOARD DESIGN</h3>
-                            <h3 className="list-group-item my-3">DESIGN STRATEGY</h3>
+                            <h3 className="list-group-item">
+                                <i class="fa-solid fa-star text-success"></i>
+                            WEB DESIGN
+                            </h3>
+                            <h3 className="list-group-item my-3">
+                                <i class="fa-solid fa-star text-success"></i>
+                            APP DESIGN
+                            </h3>
+                            <h3 className="list-group-item my-3">
+                                <i class="fa-solid fa-star text-success"></i>
+                            DASHBOARD DESIGN
+                            </h3>
+                            <h3 className="list-group-item my-3">
+                                <i class="fa-solid fa-star  text-success"></i>
+                            DESIGN STRATEGY
+                            </h3>
                         </ul>
                     </div>
             </div>

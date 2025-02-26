@@ -19,7 +19,7 @@ class ImageCard extends Component {
             <div className="col-sm-6 ">
               <div className="card border-0">
                 <div className="card-body">
-                    <img className='img-thumbnail' src={process.env.PUBLIC_URL + '/ibro2.jpg'} alt="Ibro"/>
+                    <img className='img-thumbnail' src={process.env.PUBLIC_URL + './ibro2.jpg'} alt="Ibro"/>
                 </div>
             </div>
             </div>
